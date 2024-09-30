@@ -12,9 +12,10 @@ function Paris() {
                 <Pagesdesc title={"PARIS"} positionx={'left-[37%]'} color={'#292617'}
                     text={'is the capital of the country of France. It has long been one of western Europe’s major centers of culture and business. Some of the world’s greatest artists, writers, scholars, fashion designers, and chefs have lived in Paris.'}
                 />
+                <Navbar />
+
             </div>
 
-            <Navbar />
         </>
     )
 }
